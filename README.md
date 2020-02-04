@@ -21,7 +21,7 @@ it also has a little control panel on the bottom of the grid to control other op
 
 ![blank](https://i.imgur.com/LQAu9FP.png?1)
 
-## Example of the usage with succesive aprox.
+## Example of the usage with succesive approaches.
 
 ### Data input.
 
