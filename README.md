@@ -30,4 +30,6 @@ it also has a little control panel on the bottom of the grid to control other op
 
 ![blank](https://i.imgur.com/3hn2gT9.png?1)
 
+the code is easly modeable so you can solve any othe operation only with a few tweaks in the code.
+
 this proyect was made in python3 for linux, it hasn't been tested on microsoft windows operating systems.
